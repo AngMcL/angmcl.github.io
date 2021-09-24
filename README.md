@@ -1,12 +1,12 @@
 # Angela McLaughlin
 
 ## About me
-I simultaneously identify as a genomic epidemiologist, evolutionary biologist, and bioinformatician. I am currently working towards my PhD in Bioinformatics at University of British Columbia (expected graduation Sept 2023) and am employed as a Research Assistant at the British Columbia Centre for Excellence in HIV/AIDS. Previously, I have completed a MSc in Population and Public Health and a BSc Microbiology and Immunology. In what feels like a former life (actually only 5 years ago), I specialized in biotechnology and stem cell research.
-
 My research interests focus on discerning the epidemiological and evolutionary dynamics of rapidly evolving pathogens, primarily SARS-CoV-2 and HIV-1, using a combination of phylogenetics and traditional epidemiological surveillance. 
 
+I am currently working towards my PhD in Bioinformatics at University of British Columbia (expected graduation Sept 2023) and am employed as a Research Assistant at the British Columbia Centre for Excellence in HIV/AIDS. Previously, I have completed a MSc in Population and Public Health and a BSc Microbiology and Immunology. In what feels like a former life (actually only 5 years ago), I specialized in biotechnology and stem cell research.
+
 ## Publications
-**McLaughlin, A.**, Montoya, V., Miller, R. L., Mordecai, G. J., Worobey, M., Poon, A. F. Y., & Joy, J. B. Early and ongoing importations of SARS-COV-2 in Canada. In review at eLife. (2021).
+**McLaughlin, A.**, Montoya, V., Miller, R. L., Mordecai, G. J., Worobey, M., Poon, A. F. Y., & Joy, J. B. Early and ongoing importations of SARS-COV-2 in Canada. In review: eLife. (2021).
 
 **McLaughlin, A.**, Sereda, P., Brumme, C. J., Brumme, Z. L., Barrios, R., Montaner, J. S. G., & Joy, J. B. Transmission dynamics within HIV phylogenetic clusters elucidated by viral lineage-level diversification rate. In press: Evolution Medicine and Public Health. (2021).
 
@@ -34,8 +34,8 @@ Heggen, A., **McLaughlin, A.**, Russell, G., & Zhang, A. T4 Bacteriophage may no
 <link a pdf>
 
 ## Web footprint
-[twitter](https://twitter.com/AngelaMcLaughin)
-[LinkedIn](https://www.linkedin.com/in/angela-mclaughlin/)
-[ResearchGate](https://www.researchgate.net/profile/Angela-Mclaughlin-4)
-[GoogleScholar](https://scholar.google.ca/citations?user=SHmc-yYAAAAJ&hl=en&oi=sra)
+[twitter](https://twitter.com/AngelaMcLaughin)  
+[LinkedIn](https://www.linkedin.com/in/angela-mclaughlin/)  
+[ResearchGate](https://www.researchgate.net/profile/Angela-Mclaughlin-4)  
+[GoogleScholar](https://scholar.google.ca/citations?user=SHmc-yYAAAAJ&hl=en&oi=sra)  
 
