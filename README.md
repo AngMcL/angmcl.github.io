@@ -1,7 +1,8 @@
- :microbe: :earth_americas: :floppy_disk: :bar_chart: :evergreen_tree:	
+:earth_americas: :floppy_disk: :bar_chart: :evergreen_tree:	
+
+<iframe src="https://giphy.com/embed/6znpHNXfBQJnSWhwmm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studiosoriginals-friday-feeling-happy-6znpHNXfBQJnSWhwmm">via GIPHY</a></p>
 
 ## About me
-:microbe: 
 My research interests focus on discerning the epidemiological and evolutionary dynamics of rapidly evolving pathogens, primarily SARS-CoV-2 and HIV-1, using a combination of phylogenetics and traditional epidemiological surveillance. 
 
 I am currently working towards my PhD in Bioinformatics at University of British Columbia (expected graduation Sept 2023) and am employed as a Research Assistant at the Molecular Epidemiology and Evolutionary Genetics group at the British Columbia Centre for Excellence in HIV/AIDS. I previously receieved a MSc in Population and Public Health and a BSc Microbiology and Immunology. In what feels like a former life (AKA 5 years ago...), I specialized in biotechnology and stem cell research.
