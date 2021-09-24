@@ -37,6 +37,6 @@ Heggen, A., **McLaughlin, A.**, Russell, G., & Zhang, A. T4 Bacteriophage may no
 [ResearchGate](https://www.researchgate.net/profile/Angela-Mclaughlin-4)  
 [GoogleScholar](https://scholar.google.ca/citations?user=SHmc-yYAAAAJ&hl=en&oi=sra)  
 
-<iframe src="https://giphy.com/embed/G8k4UcUNIhFSM" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/floor-ancient-microbes-G8k4UcUNIhFSM">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/G8k4UcUNIhFSM" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/floor-ancient-microbes-G8k4UcUNIhFSM"></a></p>
 
 <iframe src="https://giphy.com/embed/9yEhdYGuVBXqsoVdSM" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coronavirus-covid19-covid-9yEhdYGuVBXqsoVdSM">via GIPHY</a></p>
