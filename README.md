@@ -1,9 +1,9 @@
-# Angela McLaughlin's Research Portfolio
+# Angela McLaughlin
 
 ## About me
-PhD student in Bioinformatics, University of British Columbia 
-MSc Population and Public Health, University of British Columbia 
-BSc Microbiology and Immunology, University of British Columbia
+PhD student in Bioinformatics, University of British Columbia  
+MSc Population and Public Health, University of British Columbia   
+BSc Microbiology and Immunology, University of British Columbia  
 
 ## Publications
 - Bulleted
