@@ -1,5 +1,3 @@
-:earth_americas: :floppy_disk: :bar_chart: :evergreen_tree:	
-
 ## About me
 My research interests focus on discerning the epidemiological and evolutionary dynamics of rapidly evolving pathogens, primarily SARS-CoV-2 and HIV-1, using a combination of phylogenetics and traditional epidemiological surveillance. 
 
