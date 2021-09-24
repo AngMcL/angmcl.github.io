@@ -34,7 +34,7 @@ Heggen, A., **McLaughlin, A.**, Russell, G., & Zhang, A. T4 Bacteriophage may no
 <link a pdf>
 
 ## Web footprint
-[twitter](https://twitter.com/AngelaMcLaughin)  
+[Twitter](https://twitter.com/AngelaMcLaughin)  
 [LinkedIn](https://www.linkedin.com/in/angela-mclaughlin/)  
 [ResearchGate](https://www.researchgate.net/profile/Angela-Mclaughlin-4)  
 [GoogleScholar](https://scholar.google.ca/citations?user=SHmc-yYAAAAJ&hl=en&oi=sra)  
