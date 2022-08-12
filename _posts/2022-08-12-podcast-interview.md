@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recent podcast interview on our recently published paper"
+title: "Podcast interview on our recently published paper"
 date: 2022-08-12
 ---
 
@@ -9,4 +9,3 @@ Our recently published paper, [Genomic epidemiology of the first two waves of SA
 We also had a featured article on CTV news, which can be found [here](https://www.ctvnews.ca/health/coronavirus/travel-restrictions-drastically-cut-down-on-covid-19-entering-canada-early-in-pandemic-but-didn-t-stop-new-outbreaks-study-1.6012105?fbclid=IwAR1T582xf2avHUbYvl8HkQGpsnVbeKKfrZ-ajC6tVQLNpa9qBvRpy5jw-C8)
 
 A little shameless self-promotion never hurt anybody, right? 
-
