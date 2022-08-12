@@ -2,4 +2,4 @@ name: Angela McLaughlin
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 url: https://angmcl.github.io
-baseurl: /about
+baseurl: /docs
